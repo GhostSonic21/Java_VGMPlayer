@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VGMConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VGMConverter_jar</output-path>
+    <root id="archive" name="VGMConverter.jar">
+      <element id="module-output" name="VGMConverter" />
+    </root>
+  </artifact>
+</component>
